@@ -26,3 +26,4 @@ file.ignore
 *.ignorami
 
 tommaso.txt
+.DS_Store
